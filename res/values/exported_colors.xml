@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gris_1">#fff3f4f5</color>
+    <color name="negro">#ff000000</color>
+    <color name="naranja">#ff00d1ff</color>
+    <color name="gris_2">#fff3f4f5</color>
+    <color name="gris_3">#80323232</color>
+    <color name="rojo">#ffed1c24</color>
+    <color name="amarillo_cyan">#ffdba111</color>
+    <color name="azul_1">#ff0053a0</color>
+    <color name="azul_2">#ff6a7ab5</color>
+    <color name="azul_3">#ff034694</color>
+
+
+</resources>
